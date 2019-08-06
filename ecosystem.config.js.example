@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: 'TipBot',
+      name: 'mybot',
       script: './bot/bot.js',
       cwd: 'Location-of-Bot-Dir',
       instance_id_env: '0',
